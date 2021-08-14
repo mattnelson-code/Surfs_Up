@@ -20,6 +20,7 @@
 * December:
 
 ![december_stats](Data/december_stats.png)
+* Note: Column 'tobs' stands for Temperature Observations. 
 
 ### Weather Data Comparison
 
