@@ -24,7 +24,17 @@
 ### Weather Data Comparison
 
 1. The Mean temperature for June (74.9 degrees) and December (71 degrees) are <4 degrees apart. 
-2. The Median temperature for June (75 degrees) and December (71 degrees) are 4 degrees apart, similar to the difference in the Mean temperatures. 
+2. The Median temperature for June (75 degrees) and December (71 degrees) are 4 degrees apart, which is similar to the difference in the Mean temperatures. 
 3. The Max temperature for June is 85 degrees, and the Min temperature is 64 degrees. The Max temperature for December is 83 degrees, and the Min temperature is 56 degrees. 
  
-## Summary 
+## Summary
+
+### Weather Data
+
+1. The June and December weather data are similar. 
+2. The similarity suggests that Surf n' Shake will be sustainable as a year-round business. 
+
+### Additional Queries to Enhance the Weather Data
+
+1. 
+2. 
