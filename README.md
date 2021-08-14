@@ -10,8 +10,10 @@
 * Perform data analysis on weather data.
 * Specifically, concentrate the data analysis on June and December to see if the shop will be sustainable year-round. 
 
-## Results
+## Results: Comparing June and December Weather Data
 
-
-
+1. The Mean temperature for June (74.9 degrees) and December (71 degrees) are <4 degrees apart. 
+2. The Median temperature for June (75 degrees) and December (71 degrees) are 4 degrees apart, similar to the difference in the Mean temperatures. 
+3. The Max temperature for June is 85 degrees, and the Min temperature is 64 degrees. The Max temperature for December is 83 degrees, and the Min temperature is 56 degrees. 
+ 
 ## Summary 
