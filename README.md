@@ -10,7 +10,14 @@
 * Perform data analysis on weather data.
 * Specifically, concentrate the data analysis on June and December to see if the shop will be sustainable year-round. 
 
-## Results: Comparing June and December Weather Data
+## Results
+
+### June and December Weather Data
+
+* June: ![june_stats](Data/june_stats.png)
+* December: ![december_stats](Data/decembner_stats.png)
+
+### Weather Data Comparison
 
 1. The Mean temperature for June (74.9 degrees) and December (71 degrees) are <4 degrees apart. 
 2. The Median temperature for June (75 degrees) and December (71 degrees) are 4 degrees apart, similar to the difference in the Mean temperatures. 
