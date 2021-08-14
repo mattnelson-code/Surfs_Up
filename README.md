@@ -37,5 +37,15 @@
 
 ### Additional Queries to Enhance the Weather Data
 
-1. Station analysis to see which station has the most temperature observations and to plot the data for this station: Plot for Station 'USC00519281' can be found in SurfsUp_Challenge.ipynb Cell 15
-2. Station analysis to see which station has the Max temperature: 
+1. Conduct station analysis to see which station has the most temperature observations and to plot the data for this station
+
+* Queries to identify the stations with the most temperature observations in June and December can be found in SurfsUp_Challenge.ipynb Cells 12 and 13
+* Most active station in June: Tie between 'USC00519397', 'USC00519281', and 'USC00513117'
+* Most active station in December: 'USC00519281'
+* Queries to plot temperature observations for Station 'USC00519281' in June and December can be found in Cells 14 and 15
+
+2. Conduct station analysis to see which station has the Max temperature
+
+* Queries to find the stations with the Max temperature for June and December can be found in Cells 16 and 17
+* Station 'USC00511918' has the Max temp in June at 85.0 degrees.
+* Station 'USC00516128' has the Max temp in December at 83.0 degrees.
