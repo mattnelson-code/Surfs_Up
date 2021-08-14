@@ -37,5 +37,5 @@
 
 ### Additional Queries to Enhance the Weather Data
 
-1. 
-2. 
+1. Station analysis to see which station has the most temperature observations and to plot the data for this station: Plot for Station 'USC00519281' can be found in SurfsUp_Challenge.ipynb Cell 15
+2. Station analysis to see which station has the Max temperature: 
