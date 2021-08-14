@@ -15,7 +15,7 @@
 ### June and December Weather Data
 
 * June: ![june_stats](Data/june_stats.png)
-* December: ![december_stats](Data/decembner_stats.png)
+* December: ![december_stats](Data/december_stats.png)
 
 ### Weather Data Comparison
 
